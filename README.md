@@ -2,11 +2,11 @@
 
 ### 🌟 About Me
 
-💡  I enjoy designing python programs and finding solutions for interesting functions. I also like to create websites with user-friendly interface.
+💡  I enjoy designing python programs and finding solutions to interesting problems. I also like to create websites with user-friendly interfaces.
 
-🎓  I have two Bachelor's Degrees and a Master's Degree in Sociology. I have also completed both a Web Development and Python Bootcamp.
+🎓  I have two Bachelor's Degrees and a Master's Degree. I have also completed both a Web Development and Python Bootcamp.
 
-🏢  Currently working as a freelance programmer. Have a working relationship with the Boy Scouts of America.
+🏢  Currently working as a freelance programmer.
 
 ✍️  In my free time, I write fiction, play board games, and spend time with my wife and children.
 
