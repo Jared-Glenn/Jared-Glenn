@@ -6,7 +6,7 @@
 
 🎓  I have two Bachelor's Degrees and a Master's Degree. I have also completed both a Web Development and Python Bootcamp.
 
-🏢  Currently working as a freelance programmer.
+🏢  Currently in the software developer career track at Springboard.
 
 ✍️  In my free time, I write fiction, play board games, and spend time with my wife and children.
 
