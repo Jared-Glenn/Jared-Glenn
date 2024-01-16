@@ -2,18 +2,17 @@
 
 ### 🌟 About Me
 
-💡  I enjoy designing python programs and finding solutions to interesting problems. I also like to create websites with user-friendly interfaces.
+🚀 Passionate Full-Stack Developer: Specializing in Python and web technologies, I excel in designing innovative software solutions and user-friendly websites. My expertise lies in integrating front-end and back-end technologies to create seamless digital experiences.
 
-🎓  I have two Bachelor's Degrees and a Master's Degree. I have also completed both a Web Development and Python Bootcamp.
+🎓 Educational Background: Equipped with dual Bachelor's Degrees, a Master's in Sociology, and a comprehensive understanding of software engineering from Springboard's career track. My academic journey is complemented by specialized bootcamps in Web Development and Python, honing my technical prowess.
 
-🏢  Currently in the software developer career track at Springboard.
+👨‍💻 Professional Experience: As a software engineering student at Springboard, I've developed a robust skill set in full-stack development. My proficiency encompasses HTML, CSS, JavaScript, Python, Go, C++, and more. I'm adept in React and Node.js for building responsive web applications and possess a strong grasp of database design and SQL. My projects, such as 'Roomz' and 'qr CodeR', demonstrate my ability to lead teams and deliver innovative solutions.
 
-✍️  In my free time, I write fiction, play board games, and spend time with my wife and children.
+🌐 Connect Online: Explore my projects and professional journey at http://jaredglenn.herokuapp.com/. Feel free to reach out via LinkedIn or email for collaborations or opportunities.
 
-🌱  Visit my website at http://jaredglenn.herokuapp.com/ .
+🛠 Tech Stack: Proficient in Python, R, HTML5, CSS3, JavaScript, React, Flask, SQLite, and Heroku. My technical acumen is constantly expanding, driven by a passion for learning and adapting to emerging technologies.
 
-✉️  You can reach out to me via my website or at jared_glenn@yahoo.com !
-
+📚 Lifelong Learner: Beyond coding, I engage in fiction writing, board games, and family time. These pursuits enrich my creativity and problem-solving skills, essential for a dynamic field like software development.
 
 
 ### 🛠 Tech Stack
