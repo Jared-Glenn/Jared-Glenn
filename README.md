@@ -10,9 +10,9 @@
 
 🌐 Connect Online: Explore my projects and professional journey at http://jaredglenn.herokuapp.com/. Feel free to reach out via LinkedIn or email for collaborations or opportunities.
 
-🛠 Tech Stack: Proficient in Python, R, HTML5, CSS3, JavaScript, React, Flask, SQLite, and Heroku. My technical acumen is constantly expanding, driven by a passion for learning and adapting to emerging technologies.
+🛠 Tech Stack: Proficient in Python, R, HTML5, CSS3, JavaScript, React, Flask, SQLite, and Heroku. I'm constantly expanding my technical knowledge, and I'm driven by a passion for learning and adapting to emerging technologies.
 
-📚 Lifelong Learner: Beyond coding, I engage in fiction writing, board games, and family time. These pursuits enrich my creativity and problem-solving skills, essential for a dynamic field like software development.
+📚 Lifelong Learner: Beyond coding, I write fiction, play board games, and spend time with my family. These pursuits enrich my creativity and problem-solving skills, which is essential for a dynamic field like software development.
 
 
 ### 🛠 Tech Stack
